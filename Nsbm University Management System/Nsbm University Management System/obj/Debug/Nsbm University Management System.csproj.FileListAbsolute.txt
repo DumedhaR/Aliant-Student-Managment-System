@@ -1,0 +1,315 @@
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Nsbm University Management System.exe.config
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Nsbm University Management System.exe
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Nsbm University Management System.pdb
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.csproj.AssemblyReference.cache
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.Form1.resources
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.Properties.Resources.resources
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.csproj.GenerateResource.cache
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.exe
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.pdb
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.csproj.CopyComplete
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.RegisterForm.resources
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\MySql.Data.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\System.Memory.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\System.Buffers.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\bin\Debug\MySql.Data.xml
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.Dashboard.resources
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.ManageStudentForm.resources
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.PrintStudentForm.resources
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.CourseForm.resources
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.ManageCourse.resources
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.PrintCourseForm.resources
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.ScoreForm.resources
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.ScoreManageForm.resources
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.PrintScoreForm.resources
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.BlogsForm.resources
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.LoginForm.resources
+C:\Users\Ruky\Desktop\C#\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.LodingForm.resources
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Nsbm University Management System.exe.config
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Nsbm University Management System.exe
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Nsbm University Management System.pdb
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\MySql.Data.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\System.Memory.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\System.Buffers.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\bin\Debug\MySql.Data.xml
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.csproj.AssemblyReference.cache
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.BlogsForm.resources
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.CourseForm.resources
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.Dashboard.resources
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.Form1.resources
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.LodingForm.resources
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.LoginForm.resources
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.ManageCourse.resources
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.ManageStudentForm.resources
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.PrintCourseForm.resources
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.PrintScoreForm.resources
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.PrintStudentForm.resources
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.Properties.Resources.resources
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.RegisterForm.resources
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.ScoreForm.resources
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.ScoreManageForm.resources
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.csproj.GenerateResource.cache
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.csproj.CopyComplete
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.exe
+C:\Users\Ruky\Desktop\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.pdb
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Nsbm University Management System.exe.config
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Nsbm University Management System.exe
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Nsbm University Management System.pdb
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\MySql.Data.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\System.Memory.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\System.Buffers.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\bin\Debug\MySql.Data.xml
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.csproj.AssemblyReference.cache
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.BlogsForm.resources
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.CourseForm.resources
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.Dashboard.resources
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.Form1.resources
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.LodingForm.resources
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.LoginForm.resources
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.ManageCourse.resources
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.ManageStudentForm.resources
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.PrintCourseForm.resources
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.PrintScoreForm.resources
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.PrintStudentForm.resources
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.Properties.Resources.resources
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.RegisterForm.resources
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.ScoreForm.resources
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm_University_Management_System.ScoreManageForm.resources
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.csproj.GenerateResource.cache
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.csproj.CopyComplete
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.exe
+C:\Users\Ruky\Desktop\Y2S2\C# Tutorials\Nsbm University Management System\Nsbm University Management System\obj\Debug\Nsbm University Management System.pdb
